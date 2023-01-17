@@ -3,7 +3,7 @@ import React from "react";
 const App = () => {
 	return (
 		<h1>
-			React from Scratch
+			React + TypeScript Template
 		</h1>
 	)
 }
