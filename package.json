@@ -7,6 +7,8 @@
   "author": "phtn",
   "license": "MIT",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "dev": "webpack serve --port 3000",
     "build": "NODE_ENV=production webpack",
     "test": "jest --watchAll --verbose --coverage --coverageReporters='text-summary'"
