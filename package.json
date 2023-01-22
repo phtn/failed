@@ -1,9 +1,8 @@
 {
   "homepage": "https://phtn.github.io",
-  "name": "bare",
+  "name": "phtn",
   "version": "1.0.0",
   "description": "react app from scratch",
-  "main": "src/index.js",
   "author": "phtn",
   "license": "MIT",
   "scripts": {
